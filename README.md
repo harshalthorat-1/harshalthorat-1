@@ -10,11 +10,7 @@
 
 
 # ❤️ Support:
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Harshalthorat" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" >
-  </a>
-</p>
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/Harshalthorat" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" >
