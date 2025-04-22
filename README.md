@@ -10,4 +10,14 @@
 
 
 # ❤️ Support:
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Harshalthorat" data-color="#FFDD00" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Harshalthorat" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" >
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Harshalthorat" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" >
+  </a>
+</p>
+
